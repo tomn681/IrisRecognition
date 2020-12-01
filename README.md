@@ -5,6 +5,8 @@ Multimedia University (MMU1) database is a public database consisting of Eye Ima
 
 We chose to work with the Multimedia University (MMU) iris database, con- tributing a total of 450 images, 5 images per iris, 2 irises per subject. All images were taken using the LG IrisAccess 2200 at a range of 7-25 centime- ters.
 
+Link:http://andyzeng.github.io/downloads/MMUIrisDatabase.zip
+
 Acknowledgements
 MultiMedia University
 
